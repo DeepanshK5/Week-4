@@ -1,4 +1,4 @@
-package setinterface.convertasettosortedlist;
+package collections.setinterface.convertasettosortedlist;
 import java.util.*;
 
 public class ConvertSetToSortedList {
