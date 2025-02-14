@@ -1,4 +1,4 @@
-package listinterface.rotateelementsinlist;
+package collections.listinterface.rotateelementsinlist;
 
 import java.util.*;
 
