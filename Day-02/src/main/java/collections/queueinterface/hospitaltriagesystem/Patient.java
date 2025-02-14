@@ -1,4 +1,4 @@
-package queueinterface.hospitaltriagesystem;
+package collections.queueinterface.hospitaltriagesystem;
 
 public class Patient {
     private String name;

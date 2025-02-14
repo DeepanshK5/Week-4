@@ -1,4 +1,4 @@
-package queueinterface.hospitaltriagesystem;
+package collections.queueinterface.hospitaltriagesystem;
 
 import java.util.Comparator;
 
