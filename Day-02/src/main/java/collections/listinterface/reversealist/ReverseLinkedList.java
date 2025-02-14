@@ -1,4 +1,4 @@
-package listinterface.reversealist;
+package collections.listinterface.reversealist;
 import java.util.LinkedList;
 import java.util.List;
 public class ReverseLinkedList {

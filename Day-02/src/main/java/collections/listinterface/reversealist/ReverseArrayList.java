@@ -1,4 +1,4 @@
-package listinterface.reversealist;
+package collections.listinterface.reversealist;
 import java.util.ArrayList;
 public class ReverseArrayList {
     //method to reverse the arraylist
