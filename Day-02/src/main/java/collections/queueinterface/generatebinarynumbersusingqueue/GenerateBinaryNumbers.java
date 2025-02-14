@@ -1,4 +1,4 @@
-package queueinterface.generatebinarynumbersusingqueue;
+package collections.queueinterface.generatebinarynumbersusingqueue;
 import java.util.*;
 public class GenerateBinaryNumbers {
     public static void main(String[] args) {
