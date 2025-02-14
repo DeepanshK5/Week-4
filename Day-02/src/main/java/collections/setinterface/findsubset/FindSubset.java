@@ -1,4 +1,4 @@
-package setinterface.findsubset;
+package collections.setinterface.findsubset;
 
 import java.util.HashSet;
 import java.util.Set;
