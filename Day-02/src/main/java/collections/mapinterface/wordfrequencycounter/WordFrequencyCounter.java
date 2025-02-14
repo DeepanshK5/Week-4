@@ -1,4 +1,4 @@
-package mapinterface.wordfrequencycounter;
+package collections.mapinterface.wordfrequencycounter;
 import java.io.*;
 import java.util.*;
 public class WordFrequencyCounter {
