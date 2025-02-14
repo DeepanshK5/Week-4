@@ -1,4 +1,4 @@
-package queueinterface.implementstackusingqueue;
+package collections.queueinterface.implementstackusingqueue;
 import java.util.*;
 public class ImplementStackUsingQueue {
 
