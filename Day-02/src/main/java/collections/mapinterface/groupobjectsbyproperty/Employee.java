@@ -1,4 +1,4 @@
-package mapinterface.groupobjectsbyproperty;
+package collections.mapinterface.groupobjectsbyproperty;
 
 public class Employee {
     private String name;
