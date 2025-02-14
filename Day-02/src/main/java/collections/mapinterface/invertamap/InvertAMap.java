@@ -1,4 +1,4 @@
-package mapinterface.invertamap;
+package collections.mapinterface.invertamap;
 import java.util.*;
 public class InvertAMap {
     public static void main(String[] args) {
