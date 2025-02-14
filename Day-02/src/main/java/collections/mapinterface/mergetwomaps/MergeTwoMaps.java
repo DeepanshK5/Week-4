@@ -1,4 +1,4 @@
-package mapinterface.mergetwomaps;
+package collections.mapinterface.mergetwomaps;
 import java.util.*;
 public class MergeTwoMaps {
     public static void main(String[] args) {
