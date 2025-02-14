@@ -1,4 +1,4 @@
-package queueinterface.circularbuffersimulation;
+package collections.queueinterface.circularbuffersimulation;
 import java.util.Arrays;
 public class CircularBufferSimulation {
     private int[] buffer;
