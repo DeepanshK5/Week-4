@@ -1,4 +1,4 @@
-package listinterface.findfrequencyofelements;
+package collections.listinterface.findfrequencyofelements;
 
 import java.util.ArrayList;
 import java.util.HashMap;
