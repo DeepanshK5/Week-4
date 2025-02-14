@@ -1,4 +1,4 @@
-package mapinterface.findthekeywithhighestvalue;
+package collections.mapinterface.findthekeywithhighestvalue;
 import java.util.*;
 public class FindKeyWithHighestValue {
     public static void main(String[] args) {
