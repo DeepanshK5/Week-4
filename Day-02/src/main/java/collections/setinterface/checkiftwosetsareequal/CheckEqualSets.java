@@ -1,4 +1,4 @@
-package setinterface.checkiftwosetsareequal;
+package collections.setinterface.checkiftwosetsareequal;
 import java.util.*;
 
 public class CheckEqualSets {
