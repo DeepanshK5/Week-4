@@ -1,4 +1,4 @@
-package queueinterface.reversequeue;
+package collections.queueinterface.reversequeue;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.*;
