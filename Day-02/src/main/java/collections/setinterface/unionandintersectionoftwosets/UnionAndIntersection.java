@@ -1,4 +1,4 @@
-package setinterface.unionandintersectionoftwosets;
+package collections.setinterface.unionandintersectionoftwosets;
 import java.util.*;
 public class UnionAndIntersection {
     public static void main(String[] args) {
