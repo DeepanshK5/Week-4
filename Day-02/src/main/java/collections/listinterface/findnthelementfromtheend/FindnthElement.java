@@ -1,4 +1,4 @@
-package listinterface.findnthelementfromtheend;
+package collections.listinterface.findnthelementfromtheend;
 import java.io.FilterOutputStream;
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -35,7 +35,6 @@ public class FindnthElement<T> {
         //loop to move first pointer n position fast
         for(int i=0;i<n;i++){
             first.next(); //next pointer
-
         }
         while (first.hasNext()){
             first.next(); //iterate till has next node
